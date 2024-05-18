@@ -1,0 +1,15 @@
+/home/robert/Desktop/C#Book/Console/bin/Debug/net6.0/Console
+/home/robert/Desktop/C#Book/Console/bin/Debug/net6.0/Console.deps.json
+/home/robert/Desktop/C#Book/Console/bin/Debug/net6.0/Console.runtimeconfig.json
+/home/robert/Desktop/C#Book/Console/bin/Debug/net6.0/Console.dll
+/home/robert/Desktop/C#Book/Console/bin/Debug/net6.0/ref/Console.dll
+/home/robert/Desktop/C#Book/Console/bin/Debug/net6.0/Console.pdb
+/home/robert/Desktop/C#Book/Console/obj/Debug/net6.0/Console.csproj.AssemblyReference.cache
+/home/robert/Desktop/C#Book/Console/obj/Debug/net6.0/Console.GeneratedMSBuildEditorConfig.editorconfig
+/home/robert/Desktop/C#Book/Console/obj/Debug/net6.0/Console.AssemblyInfoInputs.cache
+/home/robert/Desktop/C#Book/Console/obj/Debug/net6.0/Console.AssemblyInfo.cs
+/home/robert/Desktop/C#Book/Console/obj/Debug/net6.0/Console.csproj.CoreCompileInputs.cache
+/home/robert/Desktop/C#Book/Console/obj/Debug/net6.0/Console.dll
+/home/robert/Desktop/C#Book/Console/obj/Debug/net6.0/ref/Console.dll
+/home/robert/Desktop/C#Book/Console/obj/Debug/net6.0/Console.pdb
+/home/robert/Desktop/C#Book/Console/obj/Debug/net6.0/Console.genruntimeconfig.cache
