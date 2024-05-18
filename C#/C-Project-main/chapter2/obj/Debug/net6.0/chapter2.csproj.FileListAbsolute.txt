@@ -1,0 +1,15 @@
+/home/robert/Desktop/C#Book/chapter2/bin/Debug/net6.0/chapter2
+/home/robert/Desktop/C#Book/chapter2/bin/Debug/net6.0/chapter2.deps.json
+/home/robert/Desktop/C#Book/chapter2/bin/Debug/net6.0/chapter2.runtimeconfig.json
+/home/robert/Desktop/C#Book/chapter2/bin/Debug/net6.0/chapter2.dll
+/home/robert/Desktop/C#Book/chapter2/bin/Debug/net6.0/ref/chapter2.dll
+/home/robert/Desktop/C#Book/chapter2/bin/Debug/net6.0/chapter2.pdb
+/home/robert/Desktop/C#Book/chapter2/obj/Debug/net6.0/chapter2.csproj.AssemblyReference.cache
+/home/robert/Desktop/C#Book/chapter2/obj/Debug/net6.0/chapter2.GeneratedMSBuildEditorConfig.editorconfig
+/home/robert/Desktop/C#Book/chapter2/obj/Debug/net6.0/chapter2.AssemblyInfoInputs.cache
+/home/robert/Desktop/C#Book/chapter2/obj/Debug/net6.0/chapter2.AssemblyInfo.cs
+/home/robert/Desktop/C#Book/chapter2/obj/Debug/net6.0/chapter2.csproj.CoreCompileInputs.cache
+/home/robert/Desktop/C#Book/chapter2/obj/Debug/net6.0/chapter2.dll
+/home/robert/Desktop/C#Book/chapter2/obj/Debug/net6.0/ref/chapter2.dll
+/home/robert/Desktop/C#Book/chapter2/obj/Debug/net6.0/chapter2.pdb
+/home/robert/Desktop/C#Book/chapter2/obj/Debug/net6.0/chapter2.genruntimeconfig.cache

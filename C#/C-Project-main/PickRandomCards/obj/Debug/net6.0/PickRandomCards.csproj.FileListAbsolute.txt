@@ -1,0 +1,15 @@
+/home/robert/Desktop/C#Book/PickRandomCards/obj/Debug/net6.0/PickRandomCards.csproj.AssemblyReference.cache
+/home/robert/Desktop/C#Book/PickRandomCards/obj/Debug/net6.0/PickRandomCards.GeneratedMSBuildEditorConfig.editorconfig
+/home/robert/Desktop/C#Book/PickRandomCards/obj/Debug/net6.0/PickRandomCards.AssemblyInfoInputs.cache
+/home/robert/Desktop/C#Book/PickRandomCards/obj/Debug/net6.0/PickRandomCards.AssemblyInfo.cs
+/home/robert/Desktop/C#Book/PickRandomCards/obj/Debug/net6.0/PickRandomCards.csproj.CoreCompileInputs.cache
+/home/robert/Desktop/C#Book/PickRandomCards/bin/Debug/net6.0/PickRandomCards
+/home/robert/Desktop/C#Book/PickRandomCards/bin/Debug/net6.0/PickRandomCards.deps.json
+/home/robert/Desktop/C#Book/PickRandomCards/bin/Debug/net6.0/PickRandomCards.runtimeconfig.json
+/home/robert/Desktop/C#Book/PickRandomCards/bin/Debug/net6.0/PickRandomCards.dll
+/home/robert/Desktop/C#Book/PickRandomCards/bin/Debug/net6.0/ref/PickRandomCards.dll
+/home/robert/Desktop/C#Book/PickRandomCards/bin/Debug/net6.0/PickRandomCards.pdb
+/home/robert/Desktop/C#Book/PickRandomCards/obj/Debug/net6.0/PickRandomCards.dll
+/home/robert/Desktop/C#Book/PickRandomCards/obj/Debug/net6.0/ref/PickRandomCards.dll
+/home/robert/Desktop/C#Book/PickRandomCards/obj/Debug/net6.0/PickRandomCards.pdb
+/home/robert/Desktop/C#Book/PickRandomCards/obj/Debug/net6.0/PickRandomCards.genruntimeconfig.cache
