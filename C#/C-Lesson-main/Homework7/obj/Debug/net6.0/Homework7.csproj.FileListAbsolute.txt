@@ -1,0 +1,15 @@
+/home/robert/Desktop/GB/C# Lesson/Homework7/obj/Debug/net6.0/Homework7.csproj.AssemblyReference.cache
+/home/robert/Desktop/GB/C# Lesson/Homework7/obj/Debug/net6.0/Homework7.GeneratedMSBuildEditorConfig.editorconfig
+/home/robert/Desktop/GB/C# Lesson/Homework7/obj/Debug/net6.0/Homework7.AssemblyInfoInputs.cache
+/home/robert/Desktop/GB/C# Lesson/Homework7/obj/Debug/net6.0/Homework7.AssemblyInfo.cs
+/home/robert/Desktop/GB/C# Lesson/Homework7/obj/Debug/net6.0/Homework7.csproj.CoreCompileInputs.cache
+/home/robert/Desktop/GB/C# Lesson/Homework7/bin/Debug/net6.0/Homework7
+/home/robert/Desktop/GB/C# Lesson/Homework7/bin/Debug/net6.0/Homework7.deps.json
+/home/robert/Desktop/GB/C# Lesson/Homework7/bin/Debug/net6.0/Homework7.runtimeconfig.json
+/home/robert/Desktop/GB/C# Lesson/Homework7/bin/Debug/net6.0/Homework7.dll
+/home/robert/Desktop/GB/C# Lesson/Homework7/bin/Debug/net6.0/ref/Homework7.dll
+/home/robert/Desktop/GB/C# Lesson/Homework7/bin/Debug/net6.0/Homework7.pdb
+/home/robert/Desktop/GB/C# Lesson/Homework7/obj/Debug/net6.0/Homework7.dll
+/home/robert/Desktop/GB/C# Lesson/Homework7/obj/Debug/net6.0/ref/Homework7.dll
+/home/robert/Desktop/GB/C# Lesson/Homework7/obj/Debug/net6.0/Homework7.pdb
+/home/robert/Desktop/GB/C# Lesson/Homework7/obj/Debug/net6.0/Homework7.genruntimeconfig.cache

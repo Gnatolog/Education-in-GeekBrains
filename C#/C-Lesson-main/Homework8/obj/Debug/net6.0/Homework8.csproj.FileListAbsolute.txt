@@ -1,0 +1,15 @@
+/home/robert/Desktop/GB/C# Lesson/Homework8/bin/Debug/net6.0/Homework8
+/home/robert/Desktop/GB/C# Lesson/Homework8/bin/Debug/net6.0/Homework8.deps.json
+/home/robert/Desktop/GB/C# Lesson/Homework8/bin/Debug/net6.0/Homework8.runtimeconfig.json
+/home/robert/Desktop/GB/C# Lesson/Homework8/bin/Debug/net6.0/Homework8.dll
+/home/robert/Desktop/GB/C# Lesson/Homework8/bin/Debug/net6.0/ref/Homework8.dll
+/home/robert/Desktop/GB/C# Lesson/Homework8/bin/Debug/net6.0/Homework8.pdb
+/home/robert/Desktop/GB/C# Lesson/Homework8/obj/Debug/net6.0/Homework8.csproj.AssemblyReference.cache
+/home/robert/Desktop/GB/C# Lesson/Homework8/obj/Debug/net6.0/Homework8.GeneratedMSBuildEditorConfig.editorconfig
+/home/robert/Desktop/GB/C# Lesson/Homework8/obj/Debug/net6.0/Homework8.AssemblyInfoInputs.cache
+/home/robert/Desktop/GB/C# Lesson/Homework8/obj/Debug/net6.0/Homework8.AssemblyInfo.cs
+/home/robert/Desktop/GB/C# Lesson/Homework8/obj/Debug/net6.0/Homework8.csproj.CoreCompileInputs.cache
+/home/robert/Desktop/GB/C# Lesson/Homework8/obj/Debug/net6.0/Homework8.dll
+/home/robert/Desktop/GB/C# Lesson/Homework8/obj/Debug/net6.0/ref/Homework8.dll
+/home/robert/Desktop/GB/C# Lesson/Homework8/obj/Debug/net6.0/Homework8.pdb
+/home/robert/Desktop/GB/C# Lesson/Homework8/obj/Debug/net6.0/Homework8.genruntimeconfig.cache
