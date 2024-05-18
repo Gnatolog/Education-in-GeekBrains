@@ -1,0 +1,28 @@
+
+	Выпала игрушка: id toy: 2 | wight toy: 6 | name toy: Car | material toy: ABS  | Battery true
+	Toy id: 2
+
+	Выпала игрушка: id toy: 3 | wight toy: 8 | name toy: Doll Irina | material toy: silicon  | Hair true
+	Toy id: 3
+
+	Выпала игрушка: id toy: 6 | wight toy: 3 | name toy: Doll Gloria | material toy: nylon  | Hair true
+	Toy id: 6
+
+	Выпала игрушка: id toy: 5 | wight toy: 6 | name toy: tractor | material toy: ABS  | Battery true
+	Toy id: 5
+
+ Нечего не выпало
+
+ Нечего не выпало
+
+ Нечего не выпало
+
+	Выпала игрушка: id toy: 1 | wight toy: 2 | name toy: Beer | material toy: Cotton  | laundry: true
+	Toy id: 1
+
+	Выпала игрушка: id toy: 4 | wight toy: 4 | name toy: Cat | material toy: Cotton  | laundry: true
+	Toy id: 4
+
+ Нечего не выпало
+
+ Нечего не выпало
