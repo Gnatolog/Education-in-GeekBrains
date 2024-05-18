@@ -1,0 +1,9 @@
+{% extends 'base.html' %}
+
+{% block title %} Список доступных Книг {% endblock %}
+{% block content %}
+    <h1>Список книг</h1>
+    {% for book in books %}
+        <p>Книга: {{book}}</p>
+    {% endfor %}
+{% endblock %}

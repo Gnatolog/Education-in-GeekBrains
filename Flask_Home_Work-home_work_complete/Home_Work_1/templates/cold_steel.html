@@ -1,0 +1,16 @@
+
+
+{% extends 'base.html' %}
+
+{% block title %}Холодное Оружие{% endblock %}
+
+{% block content %}
+    <section class="items-cold-steel">
+        {% for item in items %}
+            <img src="{{ item.path }}" alt="{{ item.title }}" width="240">
+            <h2 class="text-item">
+                <a href="{{ item.link_page }}">{{ item.title }}</a>
+            </h2>
+        {% endfor %}
+    </section>
+{% endblock %}
