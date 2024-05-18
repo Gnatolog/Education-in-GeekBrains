@@ -1,0 +1,15 @@
+/home/robert/Desktop/GB/Final_control/Programm/bin/Debug/net6.0/Programm
+/home/robert/Desktop/GB/Final_control/Programm/bin/Debug/net6.0/Programm.deps.json
+/home/robert/Desktop/GB/Final_control/Programm/bin/Debug/net6.0/Programm.runtimeconfig.json
+/home/robert/Desktop/GB/Final_control/Programm/bin/Debug/net6.0/Programm.dll
+/home/robert/Desktop/GB/Final_control/Programm/bin/Debug/net6.0/ref/Programm.dll
+/home/robert/Desktop/GB/Final_control/Programm/bin/Debug/net6.0/Programm.pdb
+/home/robert/Desktop/GB/Final_control/Programm/obj/Debug/net6.0/Programm.csproj.AssemblyReference.cache
+/home/robert/Desktop/GB/Final_control/Programm/obj/Debug/net6.0/Programm.GeneratedMSBuildEditorConfig.editorconfig
+/home/robert/Desktop/GB/Final_control/Programm/obj/Debug/net6.0/Programm.AssemblyInfoInputs.cache
+/home/robert/Desktop/GB/Final_control/Programm/obj/Debug/net6.0/Programm.AssemblyInfo.cs
+/home/robert/Desktop/GB/Final_control/Programm/obj/Debug/net6.0/Programm.csproj.CoreCompileInputs.cache
+/home/robert/Desktop/GB/Final_control/Programm/obj/Debug/net6.0/Programm.dll
+/home/robert/Desktop/GB/Final_control/Programm/obj/Debug/net6.0/ref/Programm.dll
+/home/robert/Desktop/GB/Final_control/Programm/obj/Debug/net6.0/Programm.pdb
+/home/robert/Desktop/GB/Final_control/Programm/obj/Debug/net6.0/Programm.genruntimeconfig.cache
