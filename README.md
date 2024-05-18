@@ -1,4 +1,5 @@
 # Проекты выполненные в рамках обучения
+!["GeekBrains"](https://static.ict.moscow/files/productcard/logo/GeekBrains.png)
 ___
 ### Home_work_Markdown - изучеие синтаксиса языка Markdown
 ___
