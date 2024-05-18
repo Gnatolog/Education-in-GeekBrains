@@ -1,0 +1,19 @@
+{% extends 'base.html' %}
+
+{% block title %}{{ title }}{% endblock %}
+
+{% block content %}
+     <section class="items-cold-steel">
+        {% for item in items %}
+            <img src="{{ item.path }}" alt="{{ item.title }}" width="240">
+            <p>
+                {{ item.title }}
+            </p>
+            <h2 class="text-item">
+                <a href="#">Купить</a>
+            </h2>
+
+        {% endfor %}
+
+    </section>
+{% endblock %}
